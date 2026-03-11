@@ -68,6 +68,11 @@ document.getElementById('colorInput').addEventListener('input', function() {
     document.body.style.backgroundColor = color; 
 });
 ```
+Erklärung zu transition: 
+- https://www.w3schools.com/css/
+- ease beschreibt die Beschleunigung, es gibt auch ease-in (langsam am Anfang) und ease-out (langsam am Ende)
+
+
 
 **Lösung 3: "In die Zwischenablage kopieren"-Button**
 
